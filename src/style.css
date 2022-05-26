@@ -19,7 +19,7 @@ header {
   padding: 1rem;
   text-align: center;
   color: lightcyan;
-  background-color: darkcyan;
+  background-color: darkred;
 }
 
 header h1 {
@@ -41,13 +41,11 @@ footer a {
 }
 
 #app {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   width: 100vw;
   margin: 0 auto;
   padding: 1rem;
   text-align: center;
-  font-size: x-large;
+  font-size: large;
   line-height: 160%;
   color: #2c3e50;
   background-color: #ffc;
