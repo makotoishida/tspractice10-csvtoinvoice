@@ -1,4 +1,5 @@
-1,2,3,aaa,BBB,cc
-2,2,3,aaa,BBB,cc
-3,2,3,aaa,BBB,cc
-4,2,3,aaa,BBB,cc
+invNum, invDate, custName, custAddress1, custAddress2, prodCode, prodName, price, quantity, note
+1001, 2022-12-01, Jhon Smith, 1234 Park Ave. Suite 320, ABC001, Portable Coffee Maker #4322, 98.5, 1,
+1001, 2022-12-01, Jhon Smith, 1234 Park Ave. Suite 320, ZAG220, Kitty Mug Cup 001, 24.5, 2,
+1001, 2022-12-01, Jhon Smith, 1234 Park Ave. Suite 320, GOH987-2, Special Coffee filter 100, 4.00, 5,
+1001, 2022-12-01, Jhon Smith, 1234 Park Ave. Suite 320, ZZQ998-XXL, Original T-Shirt Model #3321 Size XXL, 21.75, 1, Custom print as indicated
